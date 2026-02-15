@@ -106,5 +106,53 @@ export const CATEGORY_CONFIG: Record<string, CategoryConfigType> = {
         template: "tech-modern",
         productKeywords: ["Camera", "Lens", "Mount", "Grip", "Production"],
         presetId: 'T'
+    },
+    // NOTE: 由同步腳本自動生成 (2026-02-15)
+    "Smart Accessories": {
+        name: "Smart Accessories",
+        vibe: "luxury",
+        template: "minimal-luxury",
+        productKeywords: ["Smart", "Accessories"],
+        presetId: 'A'
+    },
+    // NOTE: 由同步腳本自動生成 (2026-02-15)
+    "Aromatherapy": {
+        name: "Aromatherapy",
+        vibe: "luxury",
+        template: "minimal-luxury",
+        productKeywords: ["Aromatherapy"],
+        presetId: 'A'
+    },
+    // NOTE: 由同步腳本自動生成 (2026-02-15)
+    "Premium Stationery": {
+        name: "Premium Stationery",
+        vibe: "luxury",
+        template: "minimal-luxury",
+        productKeywords: ["Premium", "Stationery"],
+        presetId: 'A'
+    },
+    // NOTE: 由同步腳本自動生成 (2026-02-15)
+    "Ultralight Camping": {
+        name: "Ultralight Camping",
+        vibe: "luxury",
+        template: "minimal-luxury",
+        productKeywords: ["Ultralight", "Camping"],
+        presetId: 'A'
+    },
+    // NOTE: 由同步腳本自動生成 (2026-02-15)
+    "Organization": {
+        name: "Organization",
+        vibe: "luxury",
+        template: "minimal-luxury",
+        productKeywords: ["Organization"],
+        presetId: 'A'
+    },
+    // NOTE: 由同步腳本自動生成 (2026-02-15)
+    "Car Accessories": {
+        name: "Car Accessories",
+        vibe: "luxury",
+        template: "minimal-luxury",
+        productKeywords: ["Car", "Accessories"],
+        presetId: 'A'
     }
 };
